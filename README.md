@@ -6,8 +6,13 @@ Ein Tampermonkey-Userscript für die Kaltura-Videogalerie in Moodle (`mycampus-c
 
 * **Automatischer Verlauf (erst ab > 5 Sekunden Wiedergabe):** Videos auf myCampus werden nicht schon beim bloßen Öffnen oder Pausieren erfasst, sondern erst, wenn sie länger als 5 Sekunden aktiv abgespielt wurden.
 * **Verlaufs-Modal mit Kursbezug & Klick-Funktion:** Zeigt angesehene Videos inkl. Kursname und Zeitstempel an, erlaubt das Löschen einzelner oder aller Einträge und kopiert beim Klick auf einen Eintrag den Videotitel in die Zwischenablage, während die Videogalerie des dazugehörigen Kurses in einem neuen Tab geöffnet wird.
+  
+  <img width="1596" height="1280" alt="verlauf" src="https://github.com/user-attachments/assets/3fa48768-2265-419d-b79e-33ec9122d6d4" />
 * **„Video Verlauf“-Button:** Direkt in der Galerie-Tab-Leiste sowie unter dem Video-Player verfügbar.
 * **„✓ Gesehen“-Markierung in Playlists:** Kennzeichnet bereits im Verlauf enthaltene Einträge direkt in der Playlist-Ansicht.
+  
+  <img width="726" height="980" alt="playlist" src="https://github.com/user-attachments/assets/b1c64ba0-0cbc-4944-8823-4270c95d685c" />
+
 * **Leertasten-Steuerung (`Space`):** Dem Video-Player, den myCampus nutzt fehlt standardmäßig die Funktion. dass Videos mit der Leertaste pausiert/abgespielt werden können. Diese Funktion wurde hier ebenfalls hinzugefügt.
 
 ## Installation
