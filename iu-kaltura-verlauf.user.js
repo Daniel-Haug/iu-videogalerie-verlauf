@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IU Kaltura Video-Verlauf Tracker
-// @namespace    https://github.com/DEIN-GITHUB-NAME/DEIN-REPO
+// @namespace    https://github.com/Daniel-Haug/iu-videogalerie-verlauf
 // @version      3.2
 // @description  Lokaler Watch-History-Tracker, "✓ Gesehen"-Badges und Leertasten-Steuerung für die IU Kaltura Videogalerie
 // @match        *://mycampus-classic.iu.org/*
@@ -11,8 +11,8 @@
 // @grant        GM_setValue
 // @grant        GM_addValueChangeListener
 // @grant        GM_setClipboard
-// @updateURL    https://github.com/Daniel-Haug/iu-videogalerie-verlauf/blob/main/IU%20Kaltura%20Video-Verlauf%20Tracker-3.2.js
-// @downloadURL  https://github.com/Daniel-Haug/iu-videogalerie-verlauf/blob/main/IU%20Kaltura%20Video-Verlauf%20Tracker-3.2.js
+// @updateURL    https://raw.githubusercontent.com/Daniel-Haug/iu-videogalerie-verlauf/main/iu-kaltura-verlauf.user.js
+// @downloadURL  https://raw.githubusercontent.com/Daniel-Haug/iu-videogalerie-verlauf/main/iu-kaltura-verlauf.user.js
 // ==/UserScript==
 
 (function() {
