@@ -11,8 +11,8 @@
 // @grant        GM_setValue
 // @grant        GM_addValueChangeListener
 // @grant        GM_setClipboard
-// @updateURL    https://github.com/Daniel-Haug/iu-videogalerie-verlauf.git/IU-Kaltura-Video-Verlauf-Tracker-3.1.js
-// @downloadURL  https://github.com/Daniel-Haug/iu-videogalerie-verlauf.git/IU-Kaltura-Video-Verlauf-Tracker-3.1.js
+// @updateURL    https://github.com/Daniel-Haug/iu-videogalerie-verlauf/blob/main/IU%20Kaltura%20Video-Verlauf%20Tracker-3.2.js
+// @downloadURL  https://github.com/Daniel-Haug/iu-videogalerie-verlauf/blob/main/IU%20Kaltura%20Video-Verlauf%20Tracker-3.2.js
 // ==/UserScript==
 
 (function() {
